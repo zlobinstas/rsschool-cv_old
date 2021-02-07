@@ -1,9 +1,9 @@
-1. #### Злобин Станислав
-2. **Телефон для связи:** *8-923-403-6505*;
+1. #### Stanislav Zlobin
+2. **Contact phone number:** *8-923-403-6505*;
    **Email:** *zlobinstas@bk.ru*;
-3. Здравствуйте. В настоящее время я студент. Основное мое образование - инженер в нефтегазовой отрасли. Пока еще не пришло время взрослой жизни и трудовых будней, хочется попробовать себя и в другого рода деятельности, а, именно, в программировании (***front-end***), поскольку всегда привлекала *работа в сети* и *работа головой*.  Записался на данный курс по той причине, что хочется определить конкретный вектор развития, а не просто перечитывание документации и выполнение непонятных заданий. 
-4. Базовые знания ***HTML***/***CSS***, поверхностные знания ***JavaScript***, которые, впоследствии, надеюсь улулчшить и закрепить с Вашей помощью.
-5. Код на JavaScript:
+3. Hello. I am currently a student. My main education is an engineer in the oil and gas industry. While it is not yet time for adult life and everyday work, I want to try myself in another kind of activity, actually in programming (***front-end***), because I have always been attracted to *working in the network* and *working with my head*. I signed up for this course for the reason that I want to determine a specific vector of development, and not just rereading documentation and performing incomprehensible tasks. 
+4. Basic knowledge of ***HTML***/***CSS***, little knowledge of ** * JavaScript***, which, later, I hope to improve and consolidate with your help.
+5. JavaScript code:
 ```JavaScript 
 let name = "stanislav zlobin";
 let upperName = "";
@@ -12,6 +12,6 @@ for (let letter in name) {
 }
 alert(upperName);
 ```
-6. В области программирования опыта работы нет. Были изучены курсы ***Введение в программирование, HTML и CSS (верстка), Основы современной верстки*** на [сайте Hexlet](https://ru.hexlet.io/categories/html/courses) и множество подобных на других сайтах.
-7. Первое мое образование - *бакалавриат* в **Томском Политехническом университете** по направлению ***нефтегазовое дело***. Окончен с красным дипломом. Второе, еще не оконченное, - *магистратура* в **Горном университете** в г. Санкт-Петербург по *такому же направлению*.
-8. Мой уровень английского языка ***pre-intermediate***. В настоящее время я самостоятельно обучаюсь по учебнику Murphy. В планах довести уровень английского до автоматизма, потому что я понимаю, что сейчас это необходимо.
+6. I have no experience in programming. Courses were studied ***Introduction to programming, HTML and CSS (layout), The Basics of Modern layout** * on [Hexlet site](https://ru.hexlet.io/categories/html/courses) and many similar ones on other sites.
+7. My first education was * Bachelor's degree* at * * Tomsk Polytechnic University* * in the direction of ***Oil and gas business***. Graduated with a red diploma. The second, not yet completed, is * Master's degree* at **Mining University** in St. Petersburg in *the same direction*.
+8. The level of English is ***pre-intermediate***. I am currently studying on my own according to the Murphy textbook. In plan to bring the level of English to automatism, because I understand that this is currently necessary.
